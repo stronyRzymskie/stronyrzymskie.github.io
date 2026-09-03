@@ -1,2 +1,2 @@
 # stronyrzymskie.github.io
-strona pokazowa
+Witamy!
